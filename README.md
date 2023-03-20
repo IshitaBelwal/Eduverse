@@ -2,8 +2,6 @@
 
 Heroku : https://edudot-check.herokuapp.com/
 
-This repository contains a webapp named Edudot built during an online hackathon ( Eduthon ).
-
 # Following are the features of Edudot:
 
 1. An online text summariser.
